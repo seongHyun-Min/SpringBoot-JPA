@@ -29,6 +29,9 @@ SpringBoot JPA를 매일 공부한 내용을 커밋
 
 #### 09/05
 - 쿼리 메소드 정렬 및 페이징 처리
+
+
+#### 09/06
 - Entity(annotation)
 - Entity의 listner활용
 - 연관관계 realation, ERD
